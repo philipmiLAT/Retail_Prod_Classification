@@ -1,0 +1,9 @@
+/data/*
+!/data/.gitkeep
+/logs/*
+!/logs/.gitkeep
+kaggle.json
+**/kaggle.json
+.env
+.env.*
+!.env.example
